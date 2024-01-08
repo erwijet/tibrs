@@ -1,0 +1,2877 @@
+{
+  "ASMPRGM_1": {
+    "size": 2,
+    "hex": "0x6CBB",
+    "text": "AsmPrgm"
+  },
+  "ASMPRGM_2": {
+    "size": 2,
+    "hex": "0x6DBB",
+    "text": "AsmPrgm"
+  },
+  "MAT_A": {
+    "size": 2,
+    "hex": "0x005C",
+    "text": "[A]"
+  },
+  "MAT_B": {
+    "size": 2,
+    "hex": "0x015C",
+    "text": "[B]"
+  },
+  "MAT_C": {
+    "size": 2,
+    "hex": "0x025C",
+    "text": "[C]"
+  },
+  "MAT_D": {
+    "size": 2,
+    "hex": "0x035C",
+    "text": "[D]"
+  },
+  "MAT_E": {
+    "size": 2,
+    "hex": "0x045C",
+    "text": "[E]"
+  },
+  "MAT_F": {
+    "size": 2,
+    "hex": "0x055C",
+    "text": "[F]"
+  },
+  "MAT_G": {
+    "size": 2,
+    "hex": "0x065C",
+    "text": "[G]"
+  },
+  "MAT_H": {
+    "size": 2,
+    "hex": "0x075C",
+    "text": "[H]"
+  },
+  "MAT_I": {
+    "size": 2,
+    "hex": "0x085C",
+    "text": "[I]"
+  },
+  "MAT_J": {
+    "size": 2,
+    "hex": "0x095C",
+    "text": "[J]"
+  },
+  "L1": {
+    "size": 2,
+    "hex": "0x005D",
+    "text": "L1"
+  },
+  "L2": {
+    "size": 2,
+    "hex": "0x015D",
+    "text": "L2"
+  },
+  "L3": {
+    "size": 2,
+    "hex": "0x025D",
+    "text": "L3"
+  },
+  "L4": {
+    "size": 2,
+    "hex": "0x035D",
+    "text": "L4"
+  },
+  "L5": {
+    "size": 2,
+    "hex": "0x045D",
+    "text": "L5"
+  },
+  "L6": {
+    "size": 2,
+    "hex": "0x055D",
+    "text": "L6"
+  },
+  "L7": {
+    "size": 2,
+    "hex": "0x065D",
+    "text": "L7"
+  },
+  "L8": {
+    "size": 2,
+    "hex": "0x075D",
+    "text": "L8"
+  },
+  "L9": {
+    "size": 2,
+    "hex": "0x085D",
+    "text": "L9"
+  },
+  "L0": {
+    "size": 2,
+    "hex": "0x095D",
+    "text": "L0"
+  },
+  "Y1": {
+    "size": 2,
+    "hex": "0x105E",
+    "text": "Y1"
+  },
+  "Y2": {
+    "size": 2,
+    "hex": "0x115E",
+    "text": "Y2"
+  },
+  "Y3": {
+    "size": 2,
+    "hex": "0x125E",
+    "text": "Y3"
+  },
+  "Y4": {
+    "size": 2,
+    "hex": "0x135E",
+    "text": "Y4"
+  },
+  "Y5": {
+    "size": 2,
+    "hex": "0x145E",
+    "text": "Y5"
+  },
+  "Y6": {
+    "size": 2,
+    "hex": "0x155E",
+    "text": "Y6"
+  },
+  "Y7": {
+    "size": 2,
+    "hex": "0x165E",
+    "text": "Y7"
+  },
+  "Y8": {
+    "size": 2,
+    "hex": "0x175E",
+    "text": "Y8"
+  },
+  "Y9": {
+    "size": 2,
+    "hex": "0x185E",
+    "text": "Y9"
+  },
+  "Y0": {
+    "size": 2,
+    "hex": "0x195E",
+    "text": "Y0"
+  },
+  "X1T": {
+    "size": 2,
+    "hex": "0x205E",
+    "text": "X1T"
+  },
+  "Y1T": {
+    "size": 2,
+    "hex": "0x215E",
+    "text": "Y1T"
+  },
+  "X2T": {
+    "size": 2,
+    "hex": "0x225E",
+    "text": "X2T"
+  },
+  "Y2T": {
+    "size": 2,
+    "hex": "0x235E",
+    "text": "Y2T"
+  },
+  "X3T": {
+    "size": 2,
+    "hex": "0x245E",
+    "text": "X3T"
+  },
+  "Y3T": {
+    "size": 2,
+    "hex": "0x255E",
+    "text": "Y3T"
+  },
+  "X4T": {
+    "size": 2,
+    "hex": "0x265E",
+    "text": "X4T"
+  },
+  "Y4T": {
+    "size": 2,
+    "hex": "0x275E",
+    "text": "Y4T"
+  },
+  "X5T": {
+    "size": 2,
+    "hex": "0x285E",
+    "text": "X5T"
+  },
+  "Y5T": {
+    "size": 2,
+    "hex": "0x295E",
+    "text": "Y5T"
+  },
+  "X6T": {
+    "size": 2,
+    "hex": "0x2A5E",
+    "text": "X6T"
+  },
+  "Y6T": {
+    "size": 2,
+    "hex": "0x2B5E",
+    "text": "Y6T"
+  },
+  "R1": {
+    "size": 2,
+    "hex": "0x405E",
+    "text": "R1"
+  },
+  "R2": {
+    "size": 2,
+    "hex": "0x415E",
+    "text": "R2"
+  },
+  "R3": {
+    "size": 2,
+    "hex": "0x425E",
+    "text": "R3"
+  },
+  "R4": {
+    "size": 2,
+    "hex": "0x435E",
+    "text": "R4"
+  },
+  "R5": {
+    "size": 2,
+    "hex": "0x445E",
+    "text": "R5"
+  },
+  "R6": {
+    "size": 2,
+    "hex": "0x455E",
+    "text": "R6"
+  },
+  "SYSVAR_U": {
+    "size": 2,
+    "hex": "0x805E",
+    "text": "[u]"
+  },
+  "SYSVAR_V": {
+    "size": 2,
+    "hex": "0x815E",
+    "text": "[v]"
+  },
+  "PIC1": {
+    "size": 2,
+    "hex": "0x0060",
+    "text": "PIC1"
+  },
+  "PIC2": {
+    "size": 2,
+    "hex": "0x0160",
+    "text": "PIC2"
+  },
+  "PIC3": {
+    "size": 2,
+    "hex": "0x0260",
+    "text": "PIC3"
+  },
+  "PIC4": {
+    "size": 2,
+    "hex": "0x0360",
+    "text": "PIC4"
+  },
+  "PIC5": {
+    "size": 2,
+    "hex": "0x0460",
+    "text": "PIC5"
+  },
+  "PIC6": {
+    "size": 2,
+    "hex": "0x0560",
+    "text": "PIC6"
+  },
+  "PIC7": {
+    "size": 2,
+    "hex": "0x0660",
+    "text": "PIC7"
+  },
+  "PIC8": {
+    "size": 2,
+    "hex": "0x0760",
+    "text": "PIC8"
+  },
+  "PIC9": {
+    "size": 2,
+    "hex": "0x0860",
+    "text": "PIC9"
+  },
+  "PIC0": {
+    "size": 2,
+    "hex": "0x0960",
+    "text": "PIC0"
+  },
+  "GDB1": {
+    "size": 2,
+    "hex": "0x0061",
+    "text": "GDB1"
+  },
+  "GDB2": {
+    "size": 2,
+    "hex": "0x0161",
+    "text": "GDB2"
+  },
+  "GDB3": {
+    "size": 2,
+    "hex": "0x0261",
+    "text": "GDB3"
+  },
+  "GDB4": {
+    "size": 2,
+    "hex": "0x0361",
+    "text": "GDB4"
+  },
+  "GDB5": {
+    "size": 2,
+    "hex": "0x0461",
+    "text": "GDB5"
+  },
+  "GDB6": {
+    "size": 2,
+    "hex": "0x0561",
+    "text": "GDB6"
+  },
+  "GDB7": {
+    "size": 2,
+    "hex": "0x0661",
+    "text": "GDB7"
+  },
+  "GDB8": {
+    "size": 2,
+    "hex": "0x0761",
+    "text": "GDB8"
+  },
+  "GDB9": {
+    "size": 2,
+    "hex": "0x0861",
+    "text": "GDB9"
+  },
+  "GDB0": {
+    "size": 2,
+    "hex": "0x0961",
+    "text": "GDB0"
+  },
+  "SX1": {
+    "size": 2,
+    "hex": "0x2C62",
+    "text": "Sx1"
+  },
+  "SX2": {
+    "size": 2,
+    "hex": "0x2F62",
+    "text": "Sx2"
+  },
+  "SXP": {
+    "size": 2,
+    "hex": "0x3162",
+    "text": "Sxp"
+  },
+  "REGEQ": {
+    "size": 2,
+    "hex": "0x0162",
+    "text": "RegEq"
+  },
+  "STAT_N": {
+    "size": 2,
+    "hex": "0x0262",
+    "text": "[n]"
+  },
+  "MEANX": {
+    "size": 2,
+    "hex": "0x0362",
+    "text": "mean(x)"
+  },
+  "SUMXSQUARED": {
+    "size": 2,
+    "hex": "0x0562",
+    "text": "sum(x)^2"
+  },
+  "SUMX": {
+    "size": 2,
+    "hex": "0x0462",
+    "text": "sum(x)"
+  },
+  "SX": {
+    "size": 2,
+    "hex": "0x0662",
+    "text": "Sx"
+  },
+  "SIGMAX": {
+    "size": 2,
+    "hex": "0x0762",
+    "text": "[sigma]x"
+  },
+  "MINX": {
+    "size": 2,
+    "hex": "0x0862",
+    "text": "minX"
+  },
+  "MAXX": {
+    "size": 2,
+    "hex": "0x0962",
+    "text": "maxX"
+  },
+  "MINY": {
+    "size": 2,
+    "hex": "0x0A62",
+    "text": "minY"
+  },
+  "MAXY": {
+    "size": 2,
+    "hex": "0x0B02",
+    "text": "maxY"
+  },
+  "MEANY": {
+    "size": 2,
+    "hex": "0x0C62",
+    "text": "mean(y)"
+  },
+  "SUMYSQUARED": {
+    "size": 2,
+    "hex": "0x0E62",
+    "text": "sum(y)^2"
+  },
+  "SUMY": {
+    "size": 2,
+    "hex": "0x0D62",
+    "text": "sum(y)"
+  },
+  "SY": {
+    "size": 2,
+    "hex": "0x0F62",
+    "text": "Sy"
+  },
+  "SIGMAY": {
+    "size": 2,
+    "hex": "0x1062",
+    "text": "[sigma]y"
+  },
+  "SUMXY": {
+    "size": 2,
+    "hex": "0x1162",
+    "text": "sum(xy)"
+  },
+  "SYSVAR_R": {
+    "size": 2,
+    "hex": "0x1262",
+    "text": "[r]"
+  },
+  "MED": {
+    "size": 2,
+    "hex": "0x1362",
+    "text": "Med"
+  },
+  "Q1": {
+    "size": 2,
+    "hex": "0x1462",
+    "text": "Q1"
+  },
+  "Q3": {
+    "size": 2,
+    "hex": "0x1562",
+    "text": "Q3"
+  },
+  "SYSVAR_A": {
+    "size": 2,
+    "hex": "0x1662",
+    "text": "[a]"
+  },
+  "SYSVAR_B": {
+    "size": 2,
+    "hex": "0x1762",
+    "text": "[b]"
+  },
+  "SYSVAR_C": {
+    "size": 2,
+    "hex": "0x1862",
+    "text": "[c]"
+  },
+  "SYSVAR_D": {
+    "size": 2,
+    "hex": "0x1962",
+    "text": "[d]"
+  },
+  "SYSVAR_E": {
+    "size": 2,
+    "hex": "0x1A62",
+    "text": "[stat_e]"
+  },
+  "X1": {
+    "size": 2,
+    "hex": "0x1B62",
+    "text": "x1"
+  },
+  "X2": {
+    "size": 2,
+    "hex": "0x1C62",
+    "text": "x2"
+  },
+  "X3": {
+    "size": 2,
+    "hex": "0x1D62",
+    "text": "x3"
+  },
+  "Y1_1": {
+    "size": 2,
+    "hex": "0x1E62",
+    "text": "y1"
+  },
+  "Y2_1": {
+    "size": 2,
+    "hex": "0x1F62",
+    "text": "y2"
+  },
+  "Y3_1": {
+    "size": 2,
+    "hex": "0x2062",
+    "text": "y3"
+  },
+  "SYSVAR_N": {
+    "size": 2,
+    "hex": "0x2162",
+    "text": "[n]"
+  },
+  "SYSVAR_P": {
+    "size": 2,
+    "hex": "0x2262",
+    "text": "[p]"
+  },
+  "SYSVAR_Z": {
+    "size": 2,
+    "hex": "0x2362",
+    "text": "[z]"
+  },
+  "SYSVAR_T": {
+    "size": 2,
+    "hex": "0x2462",
+    "text": "[t]"
+  },
+  "CHISQUARED": {
+    "size": 2,
+    "hex": "0x2562",
+    "text": "[chi]^2"
+  },
+  "FIN": {
+    "size": 2,
+    "hex": "0x2662",
+    "text": "[fin]"
+  },
+  "DF": {
+    "size": 2,
+    "hex": "0x2762",
+    "text": "[df]"
+  },
+  "PHAT": {
+    "size": 2,
+    "hex": "0x2862",
+    "text": "[p^]"
+  },
+  "PHAT1": {
+    "size": 2,
+    "hex": "0x2962",
+    "text": "[p^1]"
+  },
+  "PHAT2": {
+    "size": 2,
+    "hex": "0x2A62",
+    "text": "[p^2]"
+  },
+  "MEANX1": {
+    "size": 2,
+    "hex": "0x2B62",
+    "text": "mean(x1)"
+  },
+  "N1": {
+    "size": 2,
+    "hex": "0x2D62",
+    "text": "[n1]"
+  },
+  "MEANX2": {
+    "size": 2,
+    "hex": "0x2E62",
+    "text": "mean(x2)"
+  },
+  "N2": {
+    "size": 2,
+    "hex": "0x3062",
+    "text": "[n2]"
+  },
+  "LOWER": {
+    "size": 2,
+    "hex": "0x3262",
+    "text": "[lower]"
+  },
+  "UPPER": {
+    "size": 2,
+    "hex": "0x3362",
+    "text": "[upper]"
+  },
+  "SYSVAR_S": {
+    "size": 2,
+    "hex": "0x3462",
+    "text": "[s]"
+  },
+  "RSQUARED": {
+    "size": 2,
+    "hex": "0x3562",
+    "text": "r^2"
+  },
+  "CAPRSQUARED": {
+    "size": 2,
+    "hex": "0x3662",
+    "text": "R^2"
+  },
+  "DF2": {
+    "size": 2,
+    "hex": "0x3762 // not sure about this one",
+    "text": "[df]"
+  },
+  "SS": {
+    "size": 2,
+    "hex": "0x3862",
+    "text": "SS"
+  },
+  "DF3": {
+    "size": 2,
+    "hex": "0x3A62 // again here?",
+    "text": "[df]"
+  },
+  "SS1": {
+    "size": 2,
+    "hex": "0x3B62 // another double",
+    "text": "SS"
+  },
+  "MS1": {
+    "size": 2,
+    "hex": "0x3C62 //   \"       \"",
+    "text": "MS"
+  },
+  "ZXSCL": {
+    "size": 2,
+    "hex": "0x0063",
+    "text": "ZXscl"
+  },
+  "ZYSCL": {
+    "size": 2,
+    "hex": "0x0163",
+    "text": "ZYscl"
+  },
+  "XSCL": {
+    "size": 2,
+    "hex": "0x0263",
+    "text": "Xscl"
+  },
+  "YSCL": {
+    "size": 2,
+    "hex": "0x0363",
+    "text": "Yscl"
+  },
+  "ZUNSTART": {
+    "size": 2,
+    "hex": "0x0863",
+    "text": "ZUnStart"
+  },
+  "ZVNSTART": {
+    "size": 2,
+    "hex": "0x0963",
+    "text": "ZVnStart"
+  },
+  "UNSTART": {
+    "size": 2,
+    "hex": "0x0463",
+    "text": "UnStart"
+  },
+  "VNSTART": {
+    "size": 2,
+    "hex": "0x0563",
+    "text": "VnStart"
+  },
+  "UNINVERSE": {
+    "size": 2,
+    "hex": "0x0663",
+    "text": "Un-1"
+  },
+  "VNINVERSE": {
+    "size": 2,
+    "hex": "0x0763",
+    "text": "Vn-1"
+  },
+  "ZXMIN": {
+    "size": 2,
+    "hex": "0x1263",
+    "text": "ZXmin"
+  },
+  "ZXMAX": {
+    "size": 2,
+    "hex": "0x1363",
+    "text": "ZXmax"
+  },
+  "ZYMIN": {
+    "size": 2,
+    "hex": "0x1463",
+    "text": "ZYmin"
+  },
+  "ZYMAX": {
+    "size": 2,
+    "hex": "0x1563",
+    "text": "ZYmax"
+  },
+  "ZTHETAMIN": {
+    "size": 2,
+    "hex": "0x1663",
+    "text": "Ztheta_min}"
+  },
+  "ZTHETAMAX": {
+    "size": 2,
+    "hex": "0x1763",
+    "text": "Ztheta_max}"
+  },
+  "ZTMIN": {
+    "size": 2,
+    "hex": "0x1863",
+    "text": "ZTmin"
+  },
+  "ZTMAX": {
+    "size": 2,
+    "hex": "0x1963",
+    "text": "ZTmax"
+  },
+  "XMIN": {
+    "size": 2,
+    "hex": "0x0A63",
+    "text": "Xmin"
+  },
+  "XMAX": {
+    "size": 2,
+    "hex": "0x0B63",
+    "text": "Xmax"
+  },
+  "YMIN": {
+    "size": 2,
+    "hex": "0x0C63",
+    "text": "Ymin"
+  },
+  "YMAX": {
+    "size": 2,
+    "hex": "0x0D63",
+    "text": "Ymax"
+  },
+  "TMIN": {
+    "size": 2,
+    "hex": "0x0E63",
+    "text": "Tmin"
+  },
+  "TMAX": {
+    "size": 2,
+    "hex": "0x0F63",
+    "text": "Tmax"
+  },
+  "THETAMIN": {
+    "size": 2,
+    "hex": "0x1063",
+    "text": "theta_min"
+  },
+  "THETAMAX": {
+    "size": 2,
+    "hex": "0x1163",
+    "text": "theta_max"
+  },
+  "TBLMIN": {
+    "size": 2,
+    "hex": "0x1A63",
+    "text": "TblMin"
+  },
+  "ZNMIN": {
+    "size": 2,
+    "hex": "0x1C63",
+    "text": "ZnMin"
+  },
+  "NMIN": {
+    "size": 2,
+    "hex": "0x1B63",
+    "text": "nMin"
+  },
+  "ZNMAX": {
+    "size": 2,
+    "hex": "0x1E63",
+    "text": "ZnMax"
+  },
+  "NMAX": {
+    "size": 2,
+    "hex": "0x1D63",
+    "text": "nMax"
+  },
+  "ZNSTART": {
+    "size": 2,
+    "hex": "0x2063",
+    "text": "ZnStart"
+  },
+  "NSTART": {
+    "size": 2,
+    "hex": "0x1F63",
+    "text": "nStart"
+  },
+  "DELTATABLE": {
+    "size": 2,
+    "hex": "0x2163",
+    "text": "delta_Tbl"
+  },
+  "ZTSTEP": {
+    "size": 2,
+    "hex": "0x2463",
+    "text": "ZTstep"
+  },
+  "ZTHETASTEP": {
+    "size": 2,
+    "hex": "0x2563",
+    "text": "Ztheta_step}"
+  },
+  "TSTEP": {
+    "size": 2,
+    "hex": "0x2263",
+    "text": "Tstep"
+  },
+  "THETASTEP": {
+    "size": 2,
+    "hex": "0x2363",
+    "text": "theta_step}"
+  },
+  "DELTAX": {
+    "size": 2,
+    "hex": "0x2663",
+    "text": "delta_X"
+  },
+  "DELTAY": {
+    "size": 2,
+    "hex": "0x2763",
+    "text": "delta_Y"
+  },
+  "XFACT": {
+    "size": 2,
+    "hex": "0x2863",
+    "text": "XFact"
+  },
+  "YFACT": {
+    "size": 2,
+    "hex": "0x2963",
+    "text": "YFact"
+  },
+  "TBLINPUT": {
+    "size": 2,
+    "hex": "0x2A63",
+    "text": "TblInput"
+  },
+  "SYSVAR_CAPN": {
+    "size": 2,
+    "hex": "0x2B63",
+    "text": "[N]"
+  },
+  "IPERCENT": {
+    "size": 2,
+    "hex": "0x2C63",
+    "text": "I%"
+  },
+  "PV": {
+    "size": 2,
+    "hex": "0x2D63",
+    "text": "PV"
+  },
+  "PMT": {
+    "size": 2,
+    "hex": "0x2E63",
+    "text": "PMT"
+  },
+  "FV": {
+    "size": 2,
+    "hex": "0x2F63",
+    "text": "FV"
+  },
+  "ZXRES": {
+    "size": 2,
+    "hex": "0x3163",
+    "text": "ZXres"
+  },
+  "XRES": {
+    "size": 2,
+    "hex": "0x3063",
+    "text": "Xres"
+  },
+  "STR1": {
+    "size": 2,
+    "hex": "0x00AA",
+    "text": "Str1"
+  },
+  "STR2": {
+    "size": 2,
+    "hex": "0x01AA",
+    "text": "Str2"
+  },
+  "STR3": {
+    "size": 2,
+    "hex": "0x02AA",
+    "text": "Str3"
+  },
+  "STR4": {
+    "size": 2,
+    "hex": "0x03AA",
+    "text": "Str4"
+  },
+  "STR5": {
+    "size": 2,
+    "hex": "0x04AA",
+    "text": "Str5"
+  },
+  "STR6": {
+    "size": 2,
+    "hex": "0x05AA",
+    "text": "Str6"
+  },
+  "STR7": {
+    "size": 2,
+    "hex": "0x06AA",
+    "text": "Str7"
+  },
+  "STR8": {
+    "size": 2,
+    "hex": "0x07AA",
+    "text": "Str8"
+  },
+  "STR9": {
+    "size": 2,
+    "hex": "0x08AA",
+    "text": "Str9"
+  },
+  "STR0": {
+    "size": 2,
+    "hex": "0x09AA",
+    "text": "Str0"
+  },
+  "SEQ": {
+    "size": 1,
+    "hex": "0x79",
+    "text": "Seq"
+  },
+  "SIMUL": {
+    "size": 2,
+    "hex": "0x017E",
+    "text": "Simul"
+  },
+  "POLARGC": {
+    "size": 2,
+    "hex": "0x027E",
+    "text": "PolarGC"
+  },
+  "RECTGC": {
+    "size": 2,
+    "hex": "0x037E",
+    "text": "RectGC"
+  },
+  "COORDON": {
+    "size": 2,
+    "hex": "0x047E",
+    "text": "CoordOn"
+  },
+  "COORDOFF": {
+    "size": 2,
+    "hex": "0x057E",
+    "text": "CoordOff"
+  },
+  "CONNECTED": {
+    "size": 2,
+    "hex": "0x067E",
+    "text": "Connected"
+  },
+  "DOT_7E": {
+    "size": 2,
+    "hex": "0x077E",
+    "text": "Dot"
+  },
+  "AXESON": {
+    "size": 2,
+    "hex": "0x087E",
+    "text": "AxesOn"
+  },
+  "AXESOFF": {
+    "size": 2,
+    "hex": "0x097E",
+    "text": "AxesOff"
+  },
+  "GRIDON": {
+    "size": 2,
+    "hex": "0x0A7E",
+    "text": "GridOn"
+  },
+  "GRIDOFF": {
+    "size": 2,
+    "hex": "0x0B7E",
+    "text": "GridOff"
+  },
+  "LABELON": {
+    "size": 2,
+    "hex": "0x0C7E",
+    "text": "LabelOn"
+  },
+  "LABELOFF": {
+    "size": 2,
+    "hex": "0x0D7E",
+    "text": "LabelOff"
+  },
+  "WEB": {
+    "size": 2,
+    "hex": "0x0E7E",
+    "text": "Web"
+  },
+  "TIME": {
+    "size": 2,
+    "hex": "0x0F7E",
+    "text": "Time"
+  },
+  "UVAXES": {
+    "size": 2,
+    "hex": "0x107E",
+    "text": "uvAxes"
+  },
+  "VWAXES": {
+    "size": 2,
+    "hex": "0x117E",
+    "text": "vwAxes"
+  },
+  "UWAXES": {
+    "size": 2,
+    "hex": "0x127E",
+    "text": "uwAxes"
+  },
+  "NPV": {
+    "size": 2,
+    "hex": "0x00BB",
+    "text": "npv("
+  },
+  "IRR": {
+    "size": 2,
+    "hex": "0x01BB",
+    "text": "irr("
+  },
+  "BAL": {
+    "size": 2,
+    "hex": "0x02BB",
+    "text": "bal("
+  },
+  "SUMPRN": {
+    "size": 2,
+    "hex": "0x03BB",
+    "text": "sum_prn("
+  },
+  "SUMINT": {
+    "size": 2,
+    "hex": "0x04BB",
+    "text": "sum_int("
+  },
+  "TONOM": {
+    "size": 2,
+    "hex": "0x05BB",
+    "text": "->Nom"
+  },
+  "TOEFF": {
+    "size": 2,
+    "hex": "0x06BB",
+    "text": "->Eff"
+  },
+  "DBD": {
+    "size": 2,
+    "hex": "0x07BB",
+    "text": "dbd("
+  },
+  "LCM": {
+    "size": 2,
+    "hex": "0x08BB",
+    "text": "lcm("
+  },
+  "GCD": {
+    "size": 2,
+    "hex": "0x09BB",
+    "text": "gcd("
+  },
+  "RANDINT": {
+    "size": 2,
+    "hex": "0x0ABB",
+    "text": "randInt("
+  },
+  "RANDBIN": {
+    "size": 2,
+    "hex": "0x0BBB",
+    "text": "randBin("
+  },
+  "SUB": {
+    "size": 2,
+    "hex": "0x0CBB",
+    "text": "sub("
+  },
+  "STDDEV": {
+    "size": 2,
+    "hex": "0x0DBB",
+    "text": "stdDev("
+  },
+  "VARIANCE": {
+    "size": 2,
+    "hex": "0x0EBB",
+    "text": "variance("
+  },
+  "INSTRING": {
+    "size": 2,
+    "hex": "0x0FBB",
+    "text": "inString("
+  },
+  "NORMALCDF": {
+    "size": 2,
+    "hex": "0x10BB",
+    "text": "normalcdf("
+  },
+  "INVNORM": {
+    "size": 2,
+    "hex": "0x11BB",
+    "text": "invNorm("
+  },
+  "TCDF": {
+    "size": 2,
+    "hex": "0x12BB",
+    "text": "tcdf("
+  },
+  "XSQUCDF": {
+    "size": 2,
+    "hex": "0x13BB",
+    "text": "x^2cdf("
+  },
+  "FCDF": {
+    "size": 2,
+    "hex": "0x14BB",
+    "text": "fcdf("
+  },
+  "BINOMPDF": {
+    "size": 2,
+    "hex": "0x15BB",
+    "text": "binompdf("
+  },
+  "BINOMCDF": {
+    "size": 2,
+    "hex": "0x16BB",
+    "text": "binomcdf("
+  },
+  "POISSONPDF": {
+    "size": 2,
+    "hex": "0x17BB",
+    "text": "poissonpdf("
+  },
+  "POISSONCDF": {
+    "size": 2,
+    "hex": "0x18BB",
+    "text": "poissoncdf("
+  },
+  "GEOMETPDF": {
+    "size": 2,
+    "hex": "0x19BB",
+    "text": "geometpdf("
+  },
+  "GEOMETCDF": {
+    "size": 2,
+    "hex": "0x1ABB",
+    "text": "geometcdf("
+  },
+  "NORMALPDF": {
+    "size": 2,
+    "hex": "0x1BBB",
+    "text": "normalpdf("
+  },
+  "TPDF": {
+    "size": 2,
+    "hex": "0x1CBB",
+    "text": "tpdf("
+  },
+  "XSQUPDF": {
+    "size": 2,
+    "hex": "0x1DBB",
+    "text": "x^2pdf("
+  },
+  "FPDF": {
+    "size": 2,
+    "hex": "0x1EBB",
+    "text": "fpdf("
+  },
+  "RANDNORM": {
+    "size": 2,
+    "hex": "0x1FBB",
+    "text": "RandNorm("
+  },
+  "TVM_PMT": {
+    "size": 2,
+    "hex": "0x20BB",
+    "text": "tvm_pmt"
+  },
+  "TVM_I_PERCENT": {
+    "size": 2,
+    "hex": "0x21BB",
+    "text": "tvm_i%"
+  },
+  "TVM_PV": {
+    "size": 2,
+    "hex": "0x22BB",
+    "text": "tvm_PV"
+  },
+  "TVM_N": {
+    "size": 2,
+    "hex": "0x23BB",
+    "text": "tvm_N"
+  },
+  "TVM_FV": {
+    "size": 2,
+    "hex": "0x24BB",
+    "text": "tvm_FV"
+  },
+  "CONJ": {
+    "size": 2,
+    "hex": "0x25BB",
+    "text": "conj("
+  },
+  "REAL": {
+    "size": 2,
+    "hex": "0x26BB",
+    "text": "real("
+  },
+  "IMAG": {
+    "size": 2,
+    "hex": "0x27BB",
+    "text": "imag("
+  },
+  "ANGLE": {
+    "size": 2,
+    "hex": "0x28BB",
+    "text": "angle("
+  },
+  "CUMSUM": {
+    "size": 2,
+    "hex": "0x29BB",
+    "text": "cumSum("
+  },
+  "EXPR": {
+    "size": 2,
+    "hex": "0x2ABB",
+    "text": "expr("
+  },
+  "LENGTH": {
+    "size": 2,
+    "hex": "0x2BBB",
+    "text": "length("
+  },
+  "DELTA_LIST": {
+    "size": 2,
+    "hex": "0x2CBB",
+    "text": "delta_List("
+  },
+  "REF": {
+    "size": 2,
+    "hex": "0x2DBB",
+    "text": "ref("
+  },
+  "RREF": {
+    "size": 2,
+    "hex": "0x2EBB",
+    "text": "rref("
+  },
+  "TORECT": {
+    "size": 2,
+    "hex": "0x2FBB",
+    "text": "->Rect"
+  },
+  "TOPOLAR": {
+    "size": 2,
+    "hex": "0x30BB",
+    "text": "->Polar"
+  },
+  "VAR_E": {
+    "size": 2,
+    "hex": "0x31BB",
+    "text": "[e]"
+  },
+  "SINREG": {
+    "size": 2,
+    "hex": "0x32BB",
+    "text": "SinReg "
+  },
+  "LOGISTIC": {
+    "size": 2,
+    "hex": "0x33BB",
+    "text": "Logistic "
+  },
+  "LINREGTTEST": {
+    "size": 2,
+    "hex": "0x34BB",
+    "text": "LinRegTTest "
+  },
+  "SHADENORM": {
+    "size": 2,
+    "hex": "0x35BB",
+    "text": "ShadeNorm("
+  },
+  "SHADE_T": {
+    "size": 2,
+    "hex": "0x36BB",
+    "text": "Shade_t("
+  },
+  "SHADEXSQU": {
+    "size": 2,
+    "hex": "0x37BB",
+    "text": "Shade_x^2("
+  },
+  "SHADEF": {
+    "size": 2,
+    "hex": "0x38BB",
+    "text": "ShadeF("
+  },
+  "MATRTOLIST": {
+    "size": 2,
+    "hex": "0x39BB",
+    "text": "Matr->list"
+  },
+  "LISTTOMATR": {
+    "size": 2,
+    "hex": "0x3ABB",
+    "text": "List->matr"
+  },
+  "ZTEST": {
+    "size": 2,
+    "hex": "0x3BBB",
+    "text": "Z-Test("
+  },
+  "TTEST": {
+    "size": 2,
+    "hex": "0x3CBB",
+    "text": "T-Test "
+  },
+  "TWO_SAMPZTEST": {
+    "size": 2,
+    "hex": "0x3DBB",
+    "text": "2-SampZTest("
+  },
+  "ONE_PROPZTEST": {
+    "size": 2,
+    "hex": "0x3EBB",
+    "text": "1-PropZTest("
+  },
+  "TWO_PROPZTEST": {
+    "size": 2,
+    "hex": "0x3FBB",
+    "text": "2-PropZTest("
+  },
+  "XSQUTEST": {
+    "size": 2,
+    "hex": "0x40BB",
+    "text": "x^2_test("
+  },
+  "ZINTERVAL": {
+    "size": 2,
+    "hex": "0x41BB",
+    "text": "ZInterval"
+  },
+  "TWO_SAMPZINT": {
+    "size": 2,
+    "hex": "0x42BB",
+    "text": "2-SampZInt("
+  },
+  "ONE_PROPZINT": {
+    "size": 2,
+    "hex": "0x43BB",
+    "text": "1-PropZInt("
+  },
+  "TWO_PROPZINT": {
+    "size": 2,
+    "hex": "0x44BB",
+    "text": "2-PropZInt("
+  },
+  "GRAPHSTYLE": {
+    "size": 2,
+    "hex": "0x45BB",
+    "text": "GraphStyle("
+  },
+  "TWO_SAMPTTEST": {
+    "size": 2,
+    "hex": "0x46BB",
+    "text": "2-SampTTest "
+  },
+  "TWO_SAMPFTEST": {
+    "size": 2,
+    "hex": "0x47BB",
+    "text": "2-SampFTest_"
+  },
+  "TINTERVAL": {
+    "size": 2,
+    "hex": "0x48BB",
+    "text": "TInterval "
+  },
+  "TWO_SAMPTINT": {
+    "size": 2,
+    "hex": "0x49BB",
+    "text": "2-SampTInt "
+  },
+  "SETUPEDITOR": {
+    "size": 2,
+    "hex": "0x4ABB",
+    "text": "SetUpEditor "
+  },
+  "PMT_END": {
+    "size": 2,
+    "hex": "0x4BBB",
+    "text": "PMT_End"
+  },
+  "PMT_BGN": {
+    "size": 2,
+    "hex": "0x4CBB",
+    "text": "PMT_Bgn"
+  },
+  "REAL_BB": {
+    "size": 2,
+    "hex": "0x4DBB",
+    "text": "Real"
+  },
+  "REPOWTHETAI": {
+    "size": 2,
+    "hex": "0x4EBB",
+    "text": "re^[theta]i"
+  },
+  "APLUSBI": {
+    "size": 2,
+    "hex": "0x4FBB",
+    "text": "a+bi"
+  },
+  "EXPRON": {
+    "size": 2,
+    "hex": "0x50BB",
+    "text": "ExprOn"
+  },
+  "EXPROFF": {
+    "size": 2,
+    "hex": "0x51BB",
+    "text": "ExprOff"
+  },
+  "CLRALLLISTS": {
+    "size": 2,
+    "hex": "0x52BB",
+    "text": "ClrAllLists"
+  },
+  "GETCALC": {
+    "size": 2,
+    "hex": "0x53BB",
+    "text": "GetCalc("
+  },
+  "DELVAR": {
+    "size": 2,
+    "hex": "0x54BB",
+    "text": "DelVar "
+  },
+  "EQUTOSTRING": {
+    "size": 2,
+    "hex": "0x55BB",
+    "text": "Equ->String("
+  },
+  "STRINGTOEQU": {
+    "size": 2,
+    "hex": "0x56BB",
+    "text": "String->Equ("
+  },
+  "CLEARENTRIES": {
+    "size": 2,
+    "hex": "0x57BB",
+    "text": "Clear Entries"
+  },
+  "SELECT": {
+    "size": 2,
+    "hex": "0x58BB",
+    "text": "Select("
+  },
+  "ANOVA": {
+    "size": 2,
+    "hex": "0x59BB",
+    "text": "ANOVA("
+  },
+  "MODBOXPLOT": {
+    "size": 2,
+    "hex": "0x5ABB",
+    "text": "ModBoxPlot"
+  },
+  "NORMPROBPLOT": {
+    "size": 2,
+    "hex": "0x5BBB",
+    "text": "NormProbPlot"
+  },
+  "ASM": {
+    "size": 2,
+    "hex": "0x6ABB",
+    "text": "Asm("
+  },
+  "ATSIGN": {
+    "size": 2,
+    "hex": "0xD1BB",
+    "text": "@"
+  },
+  "AMPERSAND": {
+    "size": 2,
+    "hex": "0xD4BB",
+    "text": "&"
+  },
+  "HASH": {
+    "size": 2,
+    "hex": "0xD2BB",
+    "text": "#"
+  },
+  "DOLLAR": {
+    "size": 2,
+    "hex": "0xD3BB",
+    "text": "$"
+  },
+  "GRAVE": {
+    "size": 2,
+    "hex": "0xD5BB",
+    "text": "`"
+  },
+  "SEMI": {
+    "size": 2,
+    "hex": "0xD6BB",
+    "text": ";"
+  },
+  "PIPE": {
+    "size": 2,
+    "hex": "0xD8BB",
+    "text": "|"
+  },
+  "UNDERSCORE": {
+    "size": 2,
+    "hex": "0xD9BB",
+    "text": "_"
+  },
+  "PERCENT": {
+    "size": 2,
+    "hex": "0xDABB",
+    "text": "%"
+  },
+  "ELLIPSES": {
+    "size": 2,
+    "hex": "0xDABB",
+    "text": "…"
+  },
+  "ARROWUP": {
+    "size": 2,
+    "hex": "0xEDBB",
+    "text": "↑"
+  },
+  "ARROWLEFT": {
+    "size": 2,
+    "hex": "0xEBBB",
+    "text": "←"
+  },
+  "ARROWDOWN": {
+    "size": 2,
+    "hex": "0xEEBB",
+    "text": "↓"
+  },
+  "LOGIC_IF": {
+    "size": 1,
+    "hex": "0xCE",
+    "text": "If "
+  },
+  "LOGIC_THEN": {
+    "size": 1,
+    "hex": "0xCF",
+    "text": "Then"
+  },
+  "LOGIC_ELSE": {
+    "size": 1,
+    "hex": "0xD0",
+    "text": "Else"
+  },
+  "CTL_FOR": {
+    "size": 1,
+    "hex": "0xD3",
+    "text": "For("
+  },
+  "CTL_WHILE": {
+    "size": 1,
+    "hex": "0xD1",
+    "text": "While "
+  },
+  "CTL_REPEAT": {
+    "size": 1,
+    "hex": "0xD2",
+    "text": "Repeat "
+  },
+  "CTL_END": {
+    "size": 1,
+    "hex": "0xD4",
+    "text": "End"
+  },
+  "CTL_PAUSE": {
+    "size": 1,
+    "hex": "0xD8",
+    "text": "Pause"
+  },
+  "LABEL": {
+    "size": 1,
+    "hex": "0xD6",
+    "text": "Lbl "
+  },
+  "CTL_GOTO": {
+    "size": 1,
+    "hex": "0xD7",
+    "text": "Goto "
+  },
+  "INCSKIPIFHIGH": {
+    "size": 1,
+    "hex": "0xDA",
+    "text": "IS>("
+  },
+  "DECSKIPIFLOW": {
+    "size": 1,
+    "hex": "0xDB",
+    "text": "DS<("
+  },
+  "MENU": {
+    "size": 1,
+    "hex": "0xE6",
+    "text": "Menu("
+  },
+  "PROGRAM": {
+    "size": 1,
+    "hex": "0x5F",
+    "text": "prgm"
+  },
+  "CTL_RETURN": {
+    "size": 1,
+    "hex": "0xD5",
+    "text": "Return"
+  },
+  "CTL_STOP": {
+    "size": 1,
+    "hex": "0xD9",
+    "text": "Stop"
+  },
+  "INPUT": {
+    "size": 1,
+    "hex": "0xDC",
+    "text": "Input "
+  },
+  "PROMPT": {
+    "size": 1,
+    "hex": "0xDD",
+    "text": "Prompt "
+  },
+  "DISP": {
+    "size": 1,
+    "hex": "0xDE",
+    "text": "Disp "
+  },
+  "DISPGRAPH": {
+    "size": 1,
+    "hex": "0xDF",
+    "text": "DispGraph"
+  },
+  "DISPTABLE": {
+    "size": 1,
+    "hex": "0xE5",
+    "text": "DispTable"
+  },
+  "OUTPUT": {
+    "size": 1,
+    "hex": "0xE0",
+    "text": "Output("
+  },
+  "GETKEY": {
+    "size": 1,
+    "hex": "0xAD",
+    "text": "getKey"
+  },
+  "CLRHOME": {
+    "size": 1,
+    "hex": "0xE1",
+    "text": "ClrHome"
+  },
+  "CLRTABLE": {
+    "size": 1,
+    "hex": "0xFB",
+    "text": "ClrTable"
+  },
+  "GET": {
+    "size": 1,
+    "hex": "0xE8",
+    "text": "Get("
+  },
+  "SEND": {
+    "size": 1,
+    "hex": "0xE7",
+    "text": "Send("
+  },
+  "TRACE": {
+    "size": 1,
+    "hex": "0x84",
+    "text": "Trace"
+  },
+  "ZSTANDARD": {
+    "size": 1,
+    "hex": "0x86",
+    "text": "ZStandard"
+  },
+  "ZTRIG": {
+    "size": 1,
+    "hex": "0x87",
+    "text": "ZTrig"
+  },
+  "ZBOX": {
+    "size": 1,
+    "hex": "0x88",
+    "text": "ZBox"
+  },
+  "ZOOMIN": {
+    "size": 1,
+    "hex": "0x89",
+    "text": "Zoom In"
+  },
+  "ZOOMOUT": {
+    "size": 1,
+    "hex": "0x8A",
+    "text": "Zoom Out"
+  },
+  "ZSQUARE": {
+    "size": 1,
+    "hex": "0x8B",
+    "text": "ZSquare"
+  },
+  "ZINTEGER": {
+    "size": 1,
+    "hex": "0x8C",
+    "text": "ZInteger"
+  },
+  "ZPREVIOUS": {
+    "size": 1,
+    "hex": "0x8D",
+    "text": "ZPrevious"
+  },
+  "ZDECIMAL": {
+    "size": 1,
+    "hex": "0x8E",
+    "text": "ZDecimal"
+  },
+  "ZOOMSTAT": {
+    "size": 1,
+    "hex": "0x8F",
+    "text": "ZoomStat"
+  },
+  "ZOOMRCL": {
+    "size": 1,
+    "hex": "0x90",
+    "text": "ZoomRcl"
+  },
+  "ZOOMSTO": {
+    "size": 1,
+    "hex": "0x92",
+    "text": "ZoomSto"
+  },
+  "TEXTFUNC": {
+    "size": 1,
+    "hex": "0x93",
+    "text": "Text("
+  },
+  "STOREPIC": {
+    "size": 1,
+    "hex": "0x98",
+    "text": "StorePic "
+  },
+  "RECALLPIC": {
+    "size": 1,
+    "hex": "0x99",
+    "text": "RecallPic "
+  },
+  "STOREGDB": {
+    "size": 1,
+    "hex": "0x9A",
+    "text": "StoreGDB "
+  },
+  "TO_DMS": {
+    "size": 1,
+    "hex": "0x01",
+    "text": "->DMS"
+  },
+  "TO_DEC": {
+    "size": 1,
+    "hex": "0x02",
+    "text": "->DEC"
+  },
+  "TO_FRAC": {
+    "size": 1,
+    "hex": "0x03",
+    "text": "->FRAC"
+  },
+  "STORE": {
+    "size": 1,
+    "hex": "0x04",
+    "text": "->"
+  },
+  "BOXPLOT": {
+    "size": 1,
+    "hex": "0x05",
+    "text": "BoxPlot"
+  },
+  "RADIANS": {
+    "size": 1,
+    "hex": "0x0A",
+    "text": "[radians]"
+  },
+  "DEGREES": {
+    "size": 1,
+    "hex": "0x0B",
+    "text": "[degrees]"
+  },
+  "INVERSE": {
+    "size": 1,
+    "hex": "0x0C",
+    "text": "^-1"
+  },
+  "SQUARE": {
+    "size": 1,
+    "hex": "0x0D",
+    "text": "^2"
+  },
+  "TRANSPOSE": {
+    "size": 1,
+    "hex": "0x0E",
+    "text": "[transpose]"
+  },
+  "CUBE": {
+    "size": 1,
+    "hex": "0x0F",
+    "text": "^3"
+  },
+  "ROUND": {
+    "size": 1,
+    "hex": "0x12",
+    "text": "round("
+  },
+  "PXLTEST": {
+    "size": 1,
+    "hex": "0x13",
+    "text": "pxl-Test("
+  },
+  "AUGMENT": {
+    "size": 1,
+    "hex": "0x14",
+    "text": "augment("
+  },
+  "ROWSWAP": {
+    "size": 1,
+    "hex": "0x15",
+    "text": "RowSwap("
+  },
+  "ROWPLUS": {
+    "size": 1,
+    "hex": "0x16",
+    "text": "row+("
+  },
+  "STARROW": {
+    "size": 1,
+    "hex": "0x17",
+    "text": "*row("
+  },
+  "STARROWPLUS": {
+    "size": 1,
+    "hex": "0x18",
+    "text": "*row+("
+  },
+  "MAX": {
+    "size": 1,
+    "hex": "0x19",
+    "text": "max("
+  },
+  "MIN": {
+    "size": 1,
+    "hex": "0x1B",
+    "text": "min("
+  },
+  "MEDIAN": {
+    "size": 1,
+    "hex": "0x1F",
+    "text": "median("
+  },
+  "RANDM": {
+    "size": 1,
+    "hex": "0x20",
+    "text": "randM("
+  },
+  "MEAN": {
+    "size": 1,
+    "hex": "0x21",
+    "text": "mean("
+  },
+  "SOLVE": {
+    "size": 1,
+    "hex": "0x22",
+    "text": "solve("
+  },
+  "SEQFUNC": {
+    "size": 1,
+    "hex": "0x23",
+    "text": "seq("
+  },
+  "FNINT": {
+    "size": 1,
+    "hex": "0x24",
+    "text": "fnInt("
+  },
+  "NDERIV": {
+    "size": 1,
+    "hex": "0x25",
+    "text": "NDeriv("
+  },
+  "FMIN": {
+    "size": 1,
+    "hex": "0x27",
+    "text": "FMin("
+  },
+  "FMAX": {
+    "size": 1,
+    "hex": "0x28",
+    "text": "FMax("
+  },
+  "CUBICREG": {
+    "size": 1,
+    "hex": "0x2E",
+    "text": "CubicReg "
+  },
+  "QUARTREG": {
+    "size": 1,
+    "hex": "0x2F",
+    "text": "QuartReg "
+  },
+  "LOGIC_OR": {
+    "size": 1,
+    "hex": "0x3C",
+    "text": " or "
+  },
+  "LOGIC_XOR": {
+    "size": 1,
+    "hex": "0x3D",
+    "text": "~"
+  },
+  "LOGIC_AND": {
+    "size": 1,
+    "hex": "0x40",
+    "text": "and"
+  },
+  "STR_THETA": {
+    "size": 1,
+    "hex": "0x5B",
+    "text": "[theta]"
+  },
+  "RADIAN": {
+    "size": 1,
+    "hex": "0x64",
+    "text": "Radian"
+  },
+  "DEGREE": {
+    "size": 1,
+    "hex": "0x65",
+    "text": "Degree"
+  },
+  "NORMAL": {
+    "size": 1,
+    "hex": "0x66",
+    "text": "Normal"
+  },
+  "SCI": {
+    "size": 1,
+    "hex": "0x67",
+    "text": "Sci"
+  },
+  "ENG": {
+    "size": 1,
+    "hex": "0x68",
+    "text": "Eng"
+  },
+  "FLOAT": {
+    "size": 1,
+    "hex": "0x69",
+    "text": "Float"
+  },
+  "TEST_LOREQU": {
+    "size": 1,
+    "hex": "0x6D",
+    "text": "<="
+  },
+  "TEST_GOREQU": {
+    "size": 1,
+    "hex": "0x6E",
+    "text": ">="
+  },
+  "TEST_NOTEQUAL": {
+    "size": 1,
+    "hex": "0x6F",
+    "text": "!="
+  },
+  "ANSWER": {
+    "size": 1,
+    "hex": "0x72",
+    "text": "Ans"
+  },
+  "FIX": {
+    "size": 1,
+    "hex": "0x73",
+    "text": "Fix "
+  },
+  "HORIZ": {
+    "size": 1,
+    "hex": "0x74",
+    "text": "Horiz"
+  },
+  "FULL": {
+    "size": 1,
+    "hex": "0x75",
+    "text": "Full"
+  },
+  "FUNC": {
+    "size": 1,
+    "hex": "0x76",
+    "text": "Func"
+  },
+  "PARAM": {
+    "size": 1,
+    "hex": "0x77",
+    "text": "Param"
+  },
+  "POLAR": {
+    "size": 1,
+    "hex": "0x78",
+    "text": "Polar"
+  },
+  "INDPNTAUTO": {
+    "size": 1,
+    "hex": "0x7A",
+    "text": "IndpntAuto"
+  },
+  "INDPNTASK": {
+    "size": 1,
+    "hex": "0x7B",
+    "text": "IndpntAsk"
+  },
+  "DEPENDAUTO": {
+    "size": 1,
+    "hex": "0x7C",
+    "text": "DependAuto"
+  },
+  "DEPENDASK": {
+    "size": 1,
+    "hex": "0x7D",
+    "text": "DependAsk"
+  },
+  "BOX": {
+    "size": 1,
+    "hex": "0x7F",
+    "text": "[box]"
+  },
+  "DOT": {
+    "size": 1,
+    "hex": "0x81",
+    "text": "[dot]"
+  },
+  "CLRDRAW": {
+    "size": 1,
+    "hex": "0x85",
+    "text": "ClrDraw"
+  },
+  "PRINTSCREEN": {
+    "size": 1,
+    "hex": "0x91",
+    "text": "PrintScreen"
+  },
+  "NPR": {
+    "size": 1,
+    "hex": "0x94",
+    "text": "nPr"
+  },
+  "NCR": {
+    "size": 1,
+    "hex": "0x95",
+    "text": "nCr"
+  },
+  "FNON": {
+    "size": 1,
+    "hex": "0x96",
+    "text": "FnOn "
+  },
+  "FNOFF": {
+    "size": 1,
+    "hex": "0x97",
+    "text": "FnOff "
+  },
+  "RECALLGDB": {
+    "size": 1,
+    "hex": "0x9B",
+    "text": "RecallGDB "
+  },
+  "LINE": {
+    "size": 1,
+    "hex": "0x9C",
+    "text": "Line("
+  },
+  "VERTICAL": {
+    "size": 1,
+    "hex": "0x9D",
+    "text": "Vertical "
+  },
+  "PTON": {
+    "size": 1,
+    "hex": "0x9E",
+    "text": "Pt-On("
+  },
+  "PTOFF": {
+    "size": 1,
+    "hex": "0x9F",
+    "text": "Pt-Off("
+  },
+  "PTCHANGE": {
+    "size": 1,
+    "hex": "0xA0",
+    "text": "Pt-Change("
+  },
+  "PXLON": {
+    "size": 1,
+    "hex": "0xA1",
+    "text": "Pxl-On("
+  },
+  "PXLOFF": {
+    "size": 1,
+    "hex": "0xA2",
+    "text": "Pxl-Off("
+  },
+  "PXLCHANGE": {
+    "size": 1,
+    "hex": "0xA3",
+    "text": "Pxl-Change("
+  },
+  "SHADE": {
+    "size": 1,
+    "hex": "0xA4",
+    "text": "Shade("
+  },
+  "CIRCLE": {
+    "size": 1,
+    "hex": "0xA5",
+    "text": "Circle("
+  },
+  "HORIZONTAL": {
+    "size": 1,
+    "hex": "0xA6",
+    "text": "Horizontal "
+  },
+  "TANGENT": {
+    "size": 1,
+    "hex": "0xA7",
+    "text": "Tangent("
+  },
+  "DRAWINV": {
+    "size": 1,
+    "hex": "0xA8",
+    "text": "DrawInv "
+  },
+  "DRAWF": {
+    "size": 1,
+    "hex": "0xA9",
+    "text": "DrawF "
+  },
+  "PI": {
+    "size": 1,
+    "hex": "0xAC",
+    "text": "[pi]"
+  },
+  "NEGATIVE": {
+    "size": 1,
+    "hex": "0xB0",
+    "text": "[neg]"
+  },
+  "CONV_INT": {
+    "size": 1,
+    "hex": "0xB1",
+    "text": "int("
+  },
+  "ABS": {
+    "size": 1,
+    "hex": "0xB2",
+    "text": "abs("
+  },
+  "DETERMINANT": {
+    "size": 1,
+    "hex": "0xB3",
+    "text": "det("
+  },
+  "IDENTITY": {
+    "size": 1,
+    "hex": "0xB4",
+    "text": "identity("
+  },
+  "DIM": {
+    "size": 1,
+    "hex": "0xB5",
+    "text": "dim("
+  },
+  "SUM": {
+    "size": 1,
+    "hex": "0xB6",
+    "text": "sum("
+  },
+  "PROD": {
+    "size": 1,
+    "hex": "0xB7",
+    "text": "prod("
+  },
+  "NOT": {
+    "size": 1,
+    "hex": "0xB8",
+    "text": "not("
+  },
+  "IPART": {
+    "size": 1,
+    "hex": "0xB9",
+    "text": "iPart("
+  },
+  "FPART": {
+    "size": 1,
+    "hex": "0xBA",
+    "text": "fPart("
+  },
+  "SQR_ROOT": {
+    "size": 1,
+    "hex": "0xBC",
+    "text": "[root]^2"
+  },
+  "CUBE_ROOT": {
+    "size": 1,
+    "hex": "0xBD",
+    "text": "[root]^3"
+  },
+  "NATLOG": {
+    "size": 1,
+    "hex": "0xBE",
+    "text": "ln("
+  },
+  "ETOPOWER": {
+    "size": 1,
+    "hex": "0xBF",
+    "text": "e^"
+  },
+  "LOGARITHM": {
+    "size": 1,
+    "hex": "0xC0",
+    "text": "log("
+  },
+  "POWER10": {
+    "size": 1,
+    "hex": "0xC1",
+    "text": "10^("
+  },
+  "SINE": {
+    "size": 1,
+    "hex": "0xC2",
+    "text": "sin("
+  },
+  "INVSIN": {
+    "size": 1,
+    "hex": "0xC3",
+    "text": "asin("
+  },
+  "COSINE": {
+    "size": 1,
+    "hex": "0xC4",
+    "text": "cos("
+  },
+  "INVCOSINE": {
+    "size": 1,
+    "hex": "0xC5",
+    "text": "acos("
+  },
+  "TANGENT_TRIG": {
+    "size": 1,
+    "hex": "0xC6",
+    "text": "tan("
+  },
+  "INVTANGENT": {
+    "size": 1,
+    "hex": "0xC7",
+    "text": "atan("
+  },
+  "HYP_SINE": {
+    "size": 1,
+    "hex": "0xC8",
+    "text": "sinh("
+  },
+  "HYP_ISINE": {
+    "size": 1,
+    "hex": "0xC9",
+    "text": "asinh("
+  },
+  "HYP_COSINE": {
+    "size": 1,
+    "hex": "0xCA",
+    "text": "cosh("
+  },
+  "HYP_ICOSINE": {
+    "size": 1,
+    "hex": "0xCB",
+    "text": "acosh("
+  },
+  "HYP_TANGENT": {
+    "size": 1,
+    "hex": "0xCC",
+    "text": "tanh("
+  },
+  "HYP_ITANGENT": {
+    "size": 1,
+    "hex": "0xCD",
+    "text": "atanh("
+  },
+  "FILL": {
+    "size": 1,
+    "hex": "0xE2",
+    "text": "Fill("
+  },
+  "SORTA": {
+    "size": 1,
+    "hex": "0xE3",
+    "text": "SortA("
+  },
+  "SORTD": {
+    "size": 1,
+    "hex": "0xE4",
+    "text": "SortD("
+  },
+  "LIST": {
+    "size": 1,
+    "hex": "0xEB",
+    "text": "[list]"
+  },
+  "PLOT1": {
+    "size": 1,
+    "hex": "0xEC",
+    "text": "Plot1("
+  },
+  "PLOT2": {
+    "size": 1,
+    "hex": "0xED",
+    "text": "Plot2("
+  },
+  "PLOT3": {
+    "size": 1,
+    "hex": "0xEE",
+    "text": "Plot3("
+  },
+  "XTHROOT": {
+    "size": 1,
+    "hex": "0xF1",
+    "text": "[root]^"
+  },
+  "VARSTATS_1": {
+    "size": 1,
+    "hex": "0xF2",
+    "text": "1-Var Stats "
+  },
+  "VARSTATS_2": {
+    "size": 1,
+    "hex": "0xF3",
+    "text": "2-Var Stats "
+  },
+  "LINREG1": {
+    "size": 1,
+    "hex": "0xF4",
+    "text": "LinReg(a+bx) "
+  },
+  "EXPREG": {
+    "size": 1,
+    "hex": "0xF5",
+    "text": "ExpReg "
+  },
+  "LNREG": {
+    "size": 1,
+    "hex": "0xF6",
+    "text": "LnReg "
+  },
+  "PWRREG": {
+    "size": 1,
+    "hex": "0xF7",
+    "text": "PwrReg "
+  },
+  "MEDMED": {
+    "size": 1,
+    "hex": "0xF8",
+    "text": "Med-Med "
+  },
+  "QUADREG": {
+    "size": 1,
+    "hex": "0xF9",
+    "text": "QuadReg "
+  },
+  "CLRLIST": {
+    "size": 1,
+    "hex": "0xFA",
+    "text": "ClrList "
+  },
+  "HISTOGRAM": {
+    "size": 1,
+    "hex": "0xFC",
+    "text": "Histogram"
+  },
+  "XYLINE": {
+    "size": 1,
+    "hex": "0xFD",
+    "text": "xyLine"
+  },
+  "SCATTER": {
+    "size": 1,
+    "hex": "0xFE",
+    "text": "Scatter"
+  },
+  "LINREG2": {
+    "size": 1,
+    "hex": "0xFF",
+    "text": "LinReg(ax+b) "
+  },
+  "RAND": {
+    "size": 1,
+    "hex": "0xAB",
+    "text": "rand"
+  },
+  "NUM_0": {
+    "size": 1,
+    "hex": "0x30",
+    "text": "0"
+  },
+  "NUM_1": {
+    "size": 1,
+    "hex": "0x31",
+    "text": "1"
+  },
+  "NUM_2": {
+    "size": 1,
+    "hex": "0x32",
+    "text": "2"
+  },
+  "NUM_3": {
+    "size": 1,
+    "hex": "0x33",
+    "text": "3"
+  },
+  "NUM_4": {
+    "size": 1,
+    "hex": "0x34",
+    "text": "4"
+  },
+  "NUM_5": {
+    "size": 1,
+    "hex": "0x35",
+    "text": "5"
+  },
+  "NUM_6": {
+    "size": 1,
+    "hex": "0x36",
+    "text": "6"
+  },
+  "NUM_7": {
+    "size": 1,
+    "hex": "0x37",
+    "text": "7"
+  },
+  "NUM_8": {
+    "size": 1,
+    "hex": "0x38",
+    "text": "8"
+  },
+  "NUM_9": {
+    "size": 1,
+    "hex": "0x39",
+    "text": "9"
+  },
+  "PERIOD": {
+    "size": 1,
+    "hex": "0x3A",
+    "text": "."
+  },
+  "LEFTSBRACK": {
+    "size": 1,
+    "hex": "0x06",
+    "text": "["
+  },
+  "RIGHTSBRACK": {
+    "size": 1,
+    "hex": "0x07",
+    "text": "]"
+  },
+  "LEFTBRACE": {
+    "size": 1,
+    "hex": "0x08",
+    "text": "{"
+  },
+  "RIGHTBRACE": {
+    "size": 1,
+    "hex": "0x09",
+    "text": "}"
+  },
+  "LEFTBRACKET": {
+    "size": 1,
+    "hex": "0x10",
+    "text": "("
+  },
+  "RIGHTBRACKET": {
+    "size": 1,
+    "hex": "0x11",
+    "text": ")"
+  },
+  "COMMA": {
+    "size": 1,
+    "hex": "0x2B",
+    "text": ","
+  },
+  "APOSTROPHE": {
+    "size": 1,
+    "hex": "0xAE",
+    "text": "'"
+  },
+  "TEST_EQUAL": {
+    "size": 1,
+    "hex": "0x6A",
+    "text": "="
+  },
+  "TEST_LESSTHAN": {
+    "size": 1,
+    "hex": "0x6B",
+    "text": "<"
+  },
+  "TEST_HIGHTHAN": {
+    "size": 1,
+    "hex": "0x6C",
+    "text": ">"
+  },
+  "POWEROF": {
+    "size": 1,
+    "hex": "0xF0",
+    "text": "^"
+  },
+  "QUESTIONMARK": {
+    "size": 1,
+    "hex": "0xAF",
+    "text": "?"
+  },
+  "SPACE": {
+    "size": 1,
+    "hex": "0x29",
+    "text": " "
+  },
+  "ADD": {
+    "size": 1,
+    "hex": "0x70",
+    "text": "+"
+  },
+  "SUBTRACT": {
+    "size": 1,
+    "hex": "0x71",
+    "text": "-"
+  },
+  "DIVIDE_SLASH": {
+    "size": 1,
+    "hex": "0x83",
+    "text": "/"
+  },
+  "MULTIPLY": {
+    "size": 1,
+    "hex": "0x82",
+    "text": "*"
+  },
+  "FACTORIAL": {
+    "size": 1,
+    "hex": "0x2D",
+    "text": "!"
+  },
+  "COLON": {
+    "size": 1,
+    "hex": "0x3E",
+    "text": ":"
+  },
+  "HARD_RETURN": {
+    "size": 1,
+    "hex": "0x3F",
+    "text": "@@NEWLINE"
+  },
+  "DOUBLEQUOTE": {
+    "size": 1,
+    "hex": "0x2A",
+    "text": "\""
+  },
+  "LETTER_A": {
+    "size": 1,
+    "hex": "0x41",
+    "text": "A"
+  },
+  "LETTER_B": {
+    "size": 1,
+    "hex": "0x42",
+    "text": "B"
+  },
+  "LETTER_C": {
+    "size": 1,
+    "hex": "0x43",
+    "text": "C"
+  },
+  "LETTER_D": {
+    "size": 1,
+    "hex": "0x44",
+    "text": "D"
+  },
+  "LETTER_E": {
+    "size": 1,
+    "hex": "0x45",
+    "text": "E"
+  },
+  "LETTER_F": {
+    "size": 1,
+    "hex": "0x46",
+    "text": "F"
+  },
+  "LETTER_G": {
+    "size": 1,
+    "hex": "0x47",
+    "text": "G"
+  },
+  "LETTER_H": {
+    "size": 1,
+    "hex": "0x48",
+    "text": "H"
+  },
+  "LETTER_I": {
+    "size": 1,
+    "hex": "0x49",
+    "text": "I"
+  },
+  "LETTER_J": {
+    "size": 1,
+    "hex": "0x4A",
+    "text": "J"
+  },
+  "LETTER_K": {
+    "size": 1,
+    "hex": "0x4B",
+    "text": "K"
+  },
+  "LETTER_L": {
+    "size": 1,
+    "hex": "0x4C",
+    "text": "L"
+  },
+  "LETTER_M": {
+    "size": 1,
+    "hex": "0x4D",
+    "text": "M"
+  },
+  "LETTER_N": {
+    "size": 1,
+    "hex": "0x4E",
+    "text": "N"
+  },
+  "LETTER_O": {
+    "size": 1,
+    "hex": "0x4F",
+    "text": "O"
+  },
+  "LETTER_P": {
+    "size": 1,
+    "hex": "0x50",
+    "text": "P"
+  },
+  "LETTER_Q": {
+    "size": 1,
+    "hex": "0x51",
+    "text": "Q"
+  },
+  "LETTER_R": {
+    "size": 1,
+    "hex": "0x52",
+    "text": "R"
+  },
+  "LETTER_S": {
+    "size": 1,
+    "hex": "0x53",
+    "text": "S"
+  },
+  "LETTER_T": {
+    "size": 1,
+    "hex": "0x54",
+    "text": "T"
+  },
+  "LETTER_U": {
+    "size": 1,
+    "hex": "0x55",
+    "text": "U"
+  },
+  "LETTER_V": {
+    "size": 1,
+    "hex": "0x56",
+    "text": "V"
+  },
+  "LETTER_W": {
+    "size": 1,
+    "hex": "0x57",
+    "text": "W"
+  },
+  "LETTER_X": {
+    "size": 1,
+    "hex": "0x58",
+    "text": "X"
+  },
+  "LETTER_Y": {
+    "size": 1,
+    "hex": "0x59",
+    "text": "Y"
+  },
+  "LETTER_Z": {
+    "size": 1,
+    "hex": "0x5A",
+    "text": "Z"
+  },
+  "LOWER_A": {
+    "size": 2,
+    "hex": "0xB0BB",
+    "text": "a"
+  },
+  "LOWER_B": {
+    "size": 2,
+    "hex": "0xB1BB",
+    "text": "b"
+  },
+  "LOWER_C": {
+    "size": 2,
+    "hex": "0xB2BB",
+    "text": "c"
+  },
+  "LOWER_D": {
+    "size": 2,
+    "hex": "0xB3BB",
+    "text": "d"
+  },
+  "LOWER_E": {
+    "size": 2,
+    "hex": "0xB4BB",
+    "text": "e"
+  },
+  "LOWER_F": {
+    "size": 2,
+    "hex": "0xB5BB",
+    "text": "f"
+  },
+  "LOWER_G": {
+    "size": 2,
+    "hex": "0xB6BB",
+    "text": "g"
+  },
+  "LOWER_H": {
+    "size": 2,
+    "hex": "0xB7BB",
+    "text": "h"
+  },
+  "LOWER_I": {
+    "size": 2,
+    "hex": "0xB8BB",
+    "text": "i"
+  },
+  "LOWER_J": {
+    "size": 2,
+    "hex": "0xB9BB",
+    "text": "j"
+  },
+  "LOWER_K": {
+    "size": 2,
+    "hex": "0xBABB",
+    "text": "k"
+  },
+  "LOWER_L": {
+    "size": 2,
+    "hex": "0xBCBB",
+    "text": "l"
+  },
+  "LOWER_M": {
+    "size": 2,
+    "hex": "0xBDBB",
+    "text": "m"
+  },
+  "LOWER_N": {
+    "size": 2,
+    "hex": "0xBEBB",
+    "text": "n"
+  },
+  "LOWER_O": {
+    "size": 2,
+    "hex": "0xBFBB",
+    "text": "o"
+  },
+  "LOWER_P": {
+    "size": 2,
+    "hex": "0xC0BB",
+    "text": "p"
+  },
+  "LOWER_Q": {
+    "size": 2,
+    "hex": "0xC1BB",
+    "text": "q"
+  },
+  "LOWER_R": {
+    "size": 2,
+    "hex": "0xC2BB",
+    "text": "r"
+  },
+  "LOWER_S": {
+    "size": 2,
+    "hex": "0xC3BB",
+    "text": "s"
+  },
+  "LOWER_T": {
+    "size": 2,
+    "hex": "0xC4BB",
+    "text": "t"
+  },
+  "LOWER_U": {
+    "size": 2,
+    "hex": "0xC5BB",
+    "text": "u"
+  },
+  "LOWER_V": {
+    "size": 2,
+    "hex": "0xC6BB",
+    "text": "v"
+  },
+  "LOWER_W": {
+    "size": 2,
+    "hex": "0xC7BB",
+    "text": "w"
+  },
+  "LOWER_X": {
+    "size": 2,
+    "hex": "0xC8BB",
+    "text": "x"
+  },
+  "LOWER_Y": {
+    "size": 2,
+    "hex": "0xC9BB",
+    "text": "y"
+  },
+  "LOWER_Z": {
+    "size": 2,
+    "hex": "0xCABB",
+    "text": "z"
+  }
+}
