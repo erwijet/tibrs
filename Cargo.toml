@@ -2,6 +2,13 @@
 name = "tibrs"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "Provides functionality to compile and decompile tibasic source for TI graphing calculators"
+homepage = "https://github.com/erwijet/tibrs"
+repository = "https://github.com/erwijet/tibrs"
+readme = "README.md"
+keywords = ["tibasic", "ti83", "ti84"]
+categories = ["compilers", "parsing"]
 
 [lib]
 name = "tibrs"
