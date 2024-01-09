@@ -7,6 +7,5 @@ pub use self::parse::*;
 mod compile;
 pub use self::compile::*;
 
-pub fn say_hi() {
-    println!("hello, world!");
-}
+mod decompile;
+pub use self::decompile::*;

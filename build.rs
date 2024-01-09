@@ -4,7 +4,7 @@ use std::{fs, path::PathBuf, str::FromStr};
 include!("./src/models.rs");
 
 fn build(in_tokmap: &'static str, out_grammar: &'static str) {
-    let map: TokenMap = serde_json::from_str(&*fs::read_to_string(in_tokmap).unwrap()).unwrap();
+    let map: TokenMap = serde_json::from_str(&fs::read_to_string(in_tokmap).unwrap()).unwrap();
     let grammar_path = PathBuf::from_str(out_grammar).unwrap();
 
     if grammar_path.exists() {
@@ -19,7 +19,6 @@ fn build(in_tokmap: &'static str, out_grammar: &'static str) {
                 &map.get(*a).unwrap().text.len(),
             )
         })
-        .into_iter()
         .join(" | ");
 
     let rules = map
@@ -27,7 +26,7 @@ fn build(in_tokmap: &'static str, out_grammar: &'static str) {
         .map(|(k, v)| {
             format!(
                 "{k} = @{{ \"{}\" }}",
-                v.text.replace("\"", "\\\"").replace("@@NEWLINE", "\\n")
+                v.text.replace('\"', "\\\"").replace("@@NEWLINE", "\\n")
             )
         })
         .join("\n");
