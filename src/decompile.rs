@@ -80,9 +80,11 @@ pub fn decompile(raw: Box<[u8]>) -> Result<Vec<TibToken>> {
             i += 1;
         } else {
             bail!(
-                "Could not find token for byte: 0x{:02X}",
-                data[usize::from(i)]
-            );
+                "Could not find token match. Tried 0x{:02X} and 0x{:02X}{:02X}",
+                data[usize::from(i)],
+                data[usize::from(i + 1)],
+                    data[usize::from(i)]
+                );
         }
     }
 
