@@ -2359,6 +2359,16 @@
     "hex": "0xEB",
     "text": "[list]"
   },
+  "PLOTSON": {
+    "size": "1",
+    "hex": "0xE9",
+    "text": "PlotsOn"
+  },
+  "PLOTSOFF": {
+    "size": "1",
+    "hex": "0xEA",
+    "text": "PlotsOff"
+  },
   "PLOT1": {
     "size": 1,
     "hex": "0xEC",
